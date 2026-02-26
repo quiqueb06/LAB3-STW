@@ -1,0 +1,23 @@
+:root {
+  --color-primary: #2c5530;
+  --color-secondary: #5a7c59;
+  --color-accent: #c9a227;
+
+  --bg-inicio: linear-gradient(135deg, #1a2f1a 0%, #2d4a2d 50%, #1e3d1e 100%);
+  --bg-decision: linear-gradient(160deg, #1e2d3a 0%, #2a3f52 40%, #1a2835 100%);
+  --bg-final-positivo: linear-gradient(145deg, #1b3d1b 0%, #2d5a2d 60%, #0f2d0f 100%);
+  --bg-final-negativo: linear-gradient(160deg, #2d1a1a 0%, #3d2525 50%, #1a0f0f 100%);
+
+  --font-heading: 'Cinzel', 'Georgia', serif;
+  --font-body: 'Lato', 'Segoe UI', sans-serif;
+  --font-interactive: 'Lato', system-ui, sans-serif;
+
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 3rem;
+
+  --transition-fast: 200ms ease-in-out;
+  --transition-normal: 400ms ease-in-out;
+  --transition-slow: 600ms ease-in-out;
+}
